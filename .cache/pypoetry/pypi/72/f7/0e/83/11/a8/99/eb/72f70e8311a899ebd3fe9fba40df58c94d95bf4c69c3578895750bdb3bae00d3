@@ -1,0 +1,1 @@
+9999999999{"name": "matplotlib", "version": "3.2.1", "summary": "Python plotting package", "platform": "any", "requires_dist": ["cycler (>=0.10)", "kiwisolver (>=1.0.1)", "numpy (>=1.11)", "pyparsing (!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.1)", "python-dateutil (>=2.1)"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}
